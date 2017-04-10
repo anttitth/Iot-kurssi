@@ -5,9 +5,9 @@ Harjoitustyön aiheena oli tehdä Jyväskylän ammattikorkeakoulun sulautettujen
 ## Projektivaihtoehtoja
 
 1. Vesimittari
-  * Kerää dataa pulssianturilla vesimittarilta, joka lähettää kerätyn datan bluemixiin ja piirretään graafi veden kuluksesta(lämmin/kylmä)
+     * Kerää dataa pulssianturilla vesimittarilta, joka lähettää kerätyn datan bluemixiin ja piirretään graafi veden kuluksesta(lämmin/kylmä)
 2. Etäisyysanturi
-  * Kerää dataa etäisyysanturin avulla, prosessoi datan ja havainnollistaa etäisyyden muodostaen surround äänen (piirtää äänimaiseman     lähestyvistä objekteista)
+     * Kerää dataa etäisyysanturin avulla, prosessoi datan ja havainnollistaa etäisyyden muodostaen surround äänen (piirtää äänimaiseman     lähestyvistä objekteista)
 3. Ovikello, joka ottaa kuvan ovikellon painajasta
-  * Ottaa kuvan kun ovikelloa painetaan
+     * Ottaa kuvan kun ovikelloa painetaan
 
